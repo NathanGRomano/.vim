@@ -12,7 +12,7 @@ if exists("syntax_on")
 	syntax reset
 endif
 
-let colors_name = "tiger"
+let colors_name = "tiger256"
 
 " 121 is a nice green for text on black bg... dunno where to use it.
 
